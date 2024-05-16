@@ -1,5 +1,3 @@
-### Hello World! 👏
-
 ## 🎍 My Skills
 
 ![https://github.com/muzammil0011](https://skillicons.dev/icons?i=go,dart,java,html,css,ts,vue,cs,py,vite,nodejs,blender,flutter,electron,postgres,vscode,visualstudio,github,linux,md,mysql,stackoverflow,ps)
