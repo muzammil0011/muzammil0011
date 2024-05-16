@@ -1,6 +1,6 @@
 ## 🎍 My Skills
 
-![https://github.com/muzammil0011](https://skillicons.dev/icons?i=go,dart,java,html,css,ts,vue,cs,py,vite,nodejs,blender,flutter,electron,postgres,vscode,visualstudio,github,linux,md,mysql,stackoverflow,ps)
+![https://github.com/muzammil0011](https://skillicons.dev/icons?i=html,css,ts,vite,nodejs,vscode,visualstudio,github,md,mysql,stackoverflow,ps)
 <!-- ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Dart](https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
@@ -12,15 +12,11 @@
 
 ## ⚡Tool
 
-![VsCode](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![Goland](https://img.shields.io/badge/-Goland-28c19b?style=flat-square&logo=goland&logoColor=FFFFFF)
-![Webstorm](https://img.shields.io/badge/-Webstorm-000000?style=flat-square&logo=webstorm&logoColor=FFFFFF)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=FFFFFF)
-![Cinema4D](https://img.shields.io/badge/-Cinema4D-011A6A?style=flat-square&logo=Cinema4D)
-![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=Adobe)
-![AutoHotkey](https://img.shields.io/badge/-AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-LinuxMint-8ec76f?style=flat-square&logo=linuxmint&logoColor=FFFFFF)
-![windows](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
+![Github](https://img.shields.io/github/followers/muzammil0011?style=flat-rounded&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-rounded&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-rounded&logo=html5)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-rounded&logo=typescript)
+![Firefox Extension](https://img.shields.io/badge/-FireFox%20Extension-black?style=flat-rounded&logo=firefox)
 
 ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/overview.svg)
