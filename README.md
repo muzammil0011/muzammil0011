@@ -29,9 +29,6 @@
 
 ## Popular
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwebtuts&repo=bloggerpack)](https://github.com/element-plus/element-plus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wailsapp&repo=wails)](https://github.com/wailsapp/wails)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter)](https://github.com/flutter/flutter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vueuse&repo=vueuse)](https://github.com/vueuse/vueuse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwebtuts&repo=bloggerpack)](https://github.com/softwebtuts/bloggerpack)
 
 ![snake](https://raw.githubusercontent.com/yzqdev/yzqdev/output/github-contribution-grid-snake.svg)
