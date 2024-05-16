@@ -9,19 +9,11 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white) -->
-
-## ⚡Tool
-
 ![Github](https://img.shields.io/github/followers/muzammil0011?style=flat-rounded&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-rounded&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-rounded&logo=html5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-rounded&logo=typescript)
 ![Firefox Extension](https://img.shields.io/badge/-FireFox%20Extension-black?style=flat-rounded&logo=firefox)
-
-![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/0-profile-details.svg)
-![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/yzqdev/github-stats/master/generated/languages.svg)
-![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/1-repos-per-language.svg)  ![](https://raw.githubusercontent.com/yzqdev/yzqdev/main/profile-summary-card-output/vue/4-productive-time.svg)
 
 ## Popular
 
